@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not this file
+!demo.ipynb
+
+# Also make sure parent directories aren't ignored if needed
+!.gitignore
